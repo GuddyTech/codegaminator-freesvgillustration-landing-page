@@ -19,6 +19,9 @@ header .nav_box {
 }
 header .nav_box .nav_items {
   text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+  padding: 0 15px;
 }
 header .nav_box .search_box {
   display: flex;
@@ -36,6 +39,7 @@ header .nav_box .search_box .reg_btn {
   height: 30px;
   width: 100px;
   border-radius: 10px;
+  font-size: 1rem;
   cursor: pointer;
 }
 

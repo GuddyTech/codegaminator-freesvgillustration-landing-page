@@ -23,6 +23,9 @@ header {
 
         .nav_items {
             text-decoration: none;
+            color: black;
+            font-size: 1.2rem;
+            padding: 0 15px;
         }
         
         .search_box {
@@ -42,9 +45,11 @@ header {
                 height: 30px;
                 width: 100px;
                 border-radius: 10px;
+                font-size: 1rem;
                 cursor: pointer;
             }
         }
+        
     }
 }
 
