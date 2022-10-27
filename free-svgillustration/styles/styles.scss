@@ -1,5 +1,6 @@
-$bgColor1: rgb(220, 214, 214);
-$reg_btn: rgb(17, 17, 245);
+$bgColor1: rgb(245, 245, 245);
+$bgColor2: rgb(224, 214, 214);
+$btnBgColor: rgb(41, 89, 232);
 
 *{
     margin: 0;
@@ -14,6 +15,8 @@ header {
     background-color: $bgColor1;
     align-items: center;
     padding: 0 10%;
+    border-bottom: 1px solid $bgColor2;
+    // position: relative;
 
 
     .nav_box {
@@ -46,11 +49,12 @@ header {
 
             .reg_btn {
                 border: none;
-                background-color: $reg_btn;
-                height: 45px;
+                background-color: $btnBgColor;
+                height: 40px;
                 width: 160px;
                 border-radius: 5px;
                 font-size: 1rem;
+                font-weight: 500px;
                 color: white;
                 cursor: pointer;
                 display: block;
