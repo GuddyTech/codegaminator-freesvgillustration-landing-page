@@ -67,4 +67,10 @@ header .nav_box .hamburger_line {
 .svg-logo {
   width: 200px;
   height: 100px;
+}
+
+main .main-div .section-1 .blog-svg-div .blog-svg {
+  border: 1px solid black;
+  width: 100%;
+  height: 100%;
 }/*# sourceMappingURL=styles.css.map */
