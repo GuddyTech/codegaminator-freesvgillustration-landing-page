@@ -108,6 +108,55 @@ main {
                 .SVG-p {
                     font-size: 130%;
                 }
+
+                .section-1-btn {
+                    display: flex;
+                    justify-content: space-between;
+                    
+                    .free-btn {
+                        border: none;
+                        background-color: $btnBgColor;
+                        height: 40px;
+                        width: 150px;
+                        border-radius: 5px;
+                        font-size: 1rem;
+                        font-weight: 500px;
+                        color: white;
+                        cursor: pointer;
+                        display: block;
+                        transition:all 0.3s ease-in-out;
+
+                        &:hover {
+                            color: $btnBgColor;
+                            background-color: transparent;
+                            border: 1px solid;
+                        }
+
+                    }
+
+                    .premium-btn {
+                        border: none;
+                        background-color: transparent;
+                        height: 40px;
+                        width: 150px;
+                        border-radius: 5px;
+                        font-size: 1rem;
+                        font-weight: 500px;
+                        color: $btnBgColor;
+                        cursor: pointer;
+                        display: block;
+                        transition:all 0.3s ease-in-out;
+                        margin-right: 35%;
+                        border: 1px solid;
+
+                        &:hover {
+                            color: white;
+                            background-color: $btnBgColor;
+                            
+                        }
+
+                    }
+                }
             }
 
             .blog-svg-div {

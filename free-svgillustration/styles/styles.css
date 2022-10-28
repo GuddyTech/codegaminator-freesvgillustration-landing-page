@@ -84,6 +84,47 @@ main .main-div .section-1 .section-1-beaut-div .prod-p .free-span {
 main .main-div .section-1 .section-1-beaut-div .SVG-p {
   font-size: 130%;
 }
+main .main-div .section-1 .section-1-beaut-div .section-1-btn {
+  display: flex;
+  justify-content: space-between;
+}
+main .main-div .section-1 .section-1-beaut-div .section-1-btn .free-btn {
+  border: none;
+  background-color: rgb(41, 89, 232);
+  height: 40px;
+  width: 150px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 500px;
+  color: white;
+  cursor: pointer;
+  display: block;
+  transition: all 0.3s ease-in-out;
+}
+main .main-div .section-1 .section-1-beaut-div .section-1-btn .free-btn:hover {
+  color: rgb(41, 89, 232);
+  background-color: transparent;
+  border: 1px solid;
+}
+main .main-div .section-1 .section-1-beaut-div .section-1-btn .premium-btn {
+  border: none;
+  background-color: transparent;
+  height: 40px;
+  width: 150px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 500px;
+  color: rgb(41, 89, 232);
+  cursor: pointer;
+  display: block;
+  transition: all 0.3s ease-in-out;
+  margin-right: 35%;
+  border: 1px solid;
+}
+main .main-div .section-1 .section-1-beaut-div .section-1-btn .premium-btn:hover {
+  color: white;
+  background-color: rgb(41, 89, 232);
+}
 main .main-div .section-1 .blog-svg-div .blog-svg {
   border: 1px solid black;
   width: 100%;
