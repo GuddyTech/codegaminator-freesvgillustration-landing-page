@@ -92,7 +92,7 @@ main {
         .section-1 {
             display: flex;
             justify-content: space-around;
-            border: 1px solid red;
+            // border: 1px solid red;
             margin-top: 100px;
 
             .section-1-beaut-div {
@@ -160,11 +160,15 @@ main {
             }
 
             .blog-svg-div {
+                // border: 1px solid yellow;
+                width: 29%;
+                // height: -255%;
 
                 .blog-svg {
-                    border: 1px solid black;
-                    width: 100%;
+                    // border: 1px solid black;
+                    width: 200%;
                     height: 100%;
+                    margin-left: -70%;
                 }
 
             }
