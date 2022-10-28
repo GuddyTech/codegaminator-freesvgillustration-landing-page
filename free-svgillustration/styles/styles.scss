@@ -61,7 +61,7 @@ header {
                 transition:all 0.3s ease-in-out;
 
                 &:hover {
-                    color: blue;
+                    color: $btnBgColor;
                     background-color: transparent;
                     border: 1px solid;
                 }
