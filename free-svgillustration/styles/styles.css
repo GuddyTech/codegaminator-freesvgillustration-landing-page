@@ -69,6 +69,21 @@ header .nav_box .hamburger_line {
   height: 100px;
 }
 
+main .main-div .section-1 {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid red;
+  margin-top: 100px;
+}
+main .main-div .section-1 .section-1-beaut-div .prod-p {
+  font-size: 450%;
+}
+main .main-div .section-1 .section-1-beaut-div .prod-p .free-span {
+  color: rgb(41, 89, 232);
+}
+main .main-div .section-1 .section-1-beaut-div .SVG-p {
+  font-size: 130%;
+}
 main .main-div .section-1 .blog-svg-div .blog-svg {
   border: 1px solid black;
   width: 100%;

@@ -90,6 +90,25 @@ main {
     .main-div {
 
         .section-1 {
+            display: flex;
+            justify-content: space-around;
+            border: 1px solid red;
+            margin-top: 100px;
+
+            .section-1-beaut-div {
+                
+                .prod-p {
+                    font-size: 450%;
+
+                    .free-span {
+                        color: $btnBgColor;
+                    }
+                }
+
+                .SVG-p {
+                    font-size: 130%;
+                }
+            }
 
             .blog-svg-div {
 
