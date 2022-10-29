@@ -87,7 +87,8 @@ header {
 
 
 main {
-
+// max-width: 1500px;
+// margin: 0 auto;
     .main-div {
 
         .section-1 {
@@ -186,7 +187,7 @@ main {
                 justify-content: space-between;
                 background-color: rgb(54, 116, 231);
                 border-radius: 5px;
-                max-width: 85%;
+                max-width: 83%;
                 width: 100%;
                 margin: 0 auto;
                 align-items: center;
@@ -199,6 +200,8 @@ main {
 
                     .del-dollar-div {
                         display: flex;
+                        // justify-content: space-between;
+                        align-items: c;
 
                         .deliv-div {
 
@@ -210,21 +213,20 @@ main {
                         }
 
                         .dollar-div {
-                            
-                            .stricken-dollar-span {
                                 
                                 .stricken-dollar-p {
                                     font-size: 350%;
                                     text-decoration: line-through;
                                     color: rgb(10, 10, 97);
+                                    margin-top: 0%;
                                 }
                                 
-                            }
 
                             .unstricken-dollar-span {
                                 
                                 .unstricken-dollar-p {
                                     font-size: 350%;
+                                    
                                     
                                 }
                             }
