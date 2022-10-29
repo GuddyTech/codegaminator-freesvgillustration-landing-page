@@ -138,13 +138,44 @@ main .main-div .section-1 .blog-svg-div .blog-svg {
 }
 main .main-div .section-2 {
   border: 1px solid green;
+  background-color: purple;
 }
 main .main-div .section-2 .section-2-div {
   border: 2px solid black;
   display: flex;
-  justify-content: space-between;
-  padding: 0 10%;
+  justify-content: space-evenly;
+  background-color: rgb(42, 42, 163);
+  border-radius: 10px;
+  max-width: 85%;
+  width: 100%;
+  margin: 0 auto;
+  align-items: center;
+}
+main .main-div .section-2 .section-2-div .del-editable-div {
+  border: 1px solid red;
+}
+main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div {
+  display: flex;
+}
+main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deliv-div .deliv-p {
+  font-size: 350%;
+  color: white;
+}
+main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .stricken-dollar-span .stricken-dollar-p {
+  font-size: 350%;
+  text-decoration: line-through;
+  color: rgb(10, 10, 97);
+}
+main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .unstricken-dollar-span .unstricken-dollar-p {
+  font-size: 350%;
+}
+main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .editable-p {
+  font-size: 150%;
+  color: white;
 }
 main .main-div .section-2 .section-2-div .section-2-svg-div {
   border: 1px solid yellow;
+}
+main .main-div .section-2 .section-2-div .section-2-svg-div .svg-eatery {
+  border: 1px solid pink;
 }/*# sourceMappingURL=styles.css.map */

@@ -177,36 +177,68 @@ main {
 
         .section-2 {
             border: 1px solid green;
+            background-color: purple;
 
             .section-2-div {
                 border: 2px solid black;
                 display: flex;
-                justify-content: space-between;
-                padding: 0 10%;
+                justify-content: space-evenly;
+                background-color: rgb(42, 42, 163);
+                border-radius: 10px;
+                max-width: 85%;
+                width: 100%;
+                margin: 0 auto;
+                align-items: center;
+                // width:90%;
+                // margin: 0 8%;
+                
 
                 .del-editable-div{
+                    border: 1px solid red;
 
                     .del-dollar-div {
+                        display: flex;
 
                         .deliv-div {
+
                             .deliv-p {
+                                font-size: 350%;
+                                color: white;
 
                             }
                         }
 
                         .dollar-div {
+                            
+                            .stricken-dollar-span {
+                                
+                                .stricken-dollar-p {
+                                    font-size: 350%;
+                                    text-decoration: line-through;
+                                    color: rgb(10, 10, 97);
+                                }
+                                
+                            }
 
+                            .unstricken-dollar-span {
+                                
+                                .unstricken-dollar-p {
+                                    font-size: 350%;
+                                    
+                                }
+                            }
                         }
                     }
 
                     .editable-browse-div {
 
-
                         .editable-p {
-
+                            font-size: 150%;
+                            color: white;
                         }
 
                         .browse-btn {
+                            
 
                         }
                     }
@@ -218,7 +250,9 @@ main {
 
 
                     .svg-eatery {
-                        
+                        border: 1px solid pink;
+                        // height: 50%;
+                        // width: 60%;
                     }
 
                 }
