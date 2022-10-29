@@ -92,10 +92,11 @@ main {
         .section-1 {
             display: flex;
             justify-content: space-around;
-            // border: 1px solid red;
+            border: 1px solid red;
             margin-top: 100px;
 
             .section-1-beaut-div {
+                border: 1px solid blue;
                 
                 .prod-p {
                     font-size: 450%;
@@ -175,7 +176,53 @@ main {
         }
 
         .section-2 {
-            
+            border: 1px solid green;
+
+            .section-2-div {
+                border: 2px solid black;
+                display: flex;
+                justify-content: space-between;
+                padding: 0 10%;
+
+                .del-editable-div{
+
+                    .del-dollar-div {
+
+                        .deliv-div {
+                            .deliv-p {
+
+                            }
+                        }
+
+                        .dollar-div {
+
+                        }
+                    }
+
+                    .editable-browse-div {
+
+
+                        .editable-p {
+
+                        }
+
+                        .browse-btn {
+
+                        }
+                    }
+
+                }
+
+                .section-2-svg-div {
+                    border: 1px solid yellow;
+
+
+                    .svg-eatery {
+                        
+                    }
+
+                }
+            }
         }
     }
 }

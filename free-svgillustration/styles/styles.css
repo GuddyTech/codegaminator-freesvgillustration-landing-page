@@ -72,7 +72,11 @@ header .nav_box .hamburger_line {
 main .main-div .section-1 {
   display: flex;
   justify-content: space-around;
+  border: 1px solid red;
   margin-top: 100px;
+}
+main .main-div .section-1 .section-1-beaut-div {
+  border: 1px solid blue;
 }
 main .main-div .section-1 .section-1-beaut-div .prod-p {
   font-size: 450%;
@@ -131,4 +135,16 @@ main .main-div .section-1 .blog-svg-div .blog-svg {
   width: 200%;
   height: 100%;
   margin-left: -70%;
+}
+main .main-div .section-2 {
+  border: 1px solid green;
+}
+main .main-div .section-2 .section-2-div {
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10%;
+}
+main .main-div .section-2 .section-2-div .section-2-svg-div {
+  border: 1px solid yellow;
 }/*# sourceMappingURL=styles.css.map */
