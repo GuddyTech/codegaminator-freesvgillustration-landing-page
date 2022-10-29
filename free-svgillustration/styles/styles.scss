@@ -208,7 +208,11 @@ main {
                             .deliv-p {
                                 font-size: 350%;
                                 color: white;
+                            }
 
+                            .serv-p {
+                                font-size: 350%;
+                                color: white;
                             }
                         }
 
@@ -219,6 +223,16 @@ main {
                                     text-decoration: line-through;
                                     color: rgb(10, 10, 97);
                                     margin-top: 0%;
+                                    border: 1px solid black;
+                                    border-radius: 25%;
+                                    // background-color: white;
+                                    height: 80%;
+                                    width: 100%;
+
+                                    span {
+                                        border: 1px solid red;
+                                        border-end-start-radius: 20px;
+                                    }
                                 }
                                 
 

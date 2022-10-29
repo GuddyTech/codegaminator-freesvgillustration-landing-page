@@ -162,11 +162,23 @@ main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deli
   font-size: 350%;
   color: white;
 }
+main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deliv-div .serv-p {
+  font-size: 350%;
+  color: white;
+}
 main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .stricken-dollar-p {
   font-size: 350%;
   text-decoration: line-through;
   color: rgb(10, 10, 97);
   margin-top: 0%;
+  border: 1px solid black;
+  border-radius: 25%;
+  height: 80%;
+  width: 100%;
+}
+main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .stricken-dollar-p span {
+  border: 1px solid red;
+  border-end-start-radius: 20px;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .unstricken-dollar-span .unstricken-dollar-p {
   font-size: 350%;
