@@ -1,6 +1,7 @@
 $bgColor1: rgb(245, 245, 245);
 $bgColor2: rgb(224, 214, 214);
 $btnBgColor: rgb(41, 89, 232);
+$btnBgColor2: rgb(19, 18, 18);
 
 *{
     margin: 0;
@@ -238,7 +239,25 @@ main {
                         }
 
                         .browse-btn {
-                            
+                            border: none;
+                            background-color: white;
+                            height: 40px;
+                            width: 150px;
+                            border-radius: 5px;
+                            font-size: 1rem;
+                            font-weight: 500px;
+                            color: $btnBgColor;
+                            cursor: pointer;
+                            display: block;
+                            transition:all 0.3s ease-in-out;
+                            margin-right: 35%;
+                            border: none;
+
+                            &:hover {
+                                color: white;
+                                background-color: $btnBgColor2;
+                                
+                            }
 
                         }
                     }

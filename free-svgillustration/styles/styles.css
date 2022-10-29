@@ -173,6 +173,25 @@ main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div 
   font-size: 150%;
   color: white;
 }
+main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .browse-btn {
+  border: none;
+  background-color: white;
+  height: 40px;
+  width: 150px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 500px;
+  color: rgb(41, 89, 232);
+  cursor: pointer;
+  display: block;
+  transition: all 0.3s ease-in-out;
+  margin-right: 35%;
+  border: none;
+}
+main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .browse-btn:hover {
+  color: white;
+  background-color: rgb(19, 18, 18);
+}
 main .main-div .section-2 .section-2-div .section-2-svg-div {
   border: 1px solid yellow;
 }
