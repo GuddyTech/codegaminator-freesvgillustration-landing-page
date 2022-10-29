@@ -183,9 +183,9 @@ main {
             .section-2-div {
                 border: 2px solid black;
                 display: flex;
-                justify-content: space-evenly;
-                background-color: rgb(42, 42, 163);
-                border-radius: 10px;
+                justify-content: space-between;
+                background-color: rgb(54, 116, 231);
+                border-radius: 5px;
                 max-width: 85%;
                 width: 100%;
                 margin: 0 auto;
@@ -266,10 +266,15 @@ main {
 
                 .section-2-svg-div {
                     border: 1px solid yellow;
-
+                    // padding-top: 40%;
+                    max-width: 40%;
+                    max-height: 100%;
 
                     .svg-eatery {
                         border: 1px solid pink;
+                        width: 100%;
+                        height: 100%;
+                        // margin-left: 0%;
                         // height: 50%;
                         // width: 60%;
                     }
