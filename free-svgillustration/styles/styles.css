@@ -10,7 +10,7 @@ header {
   height: 100px;
   background-color: rgb(245, 245, 245);
   align-items: center;
-  padding: 0 10%;
+  padding: 0 8%;
   border-bottom: 1px solid rgb(224, 214, 214);
 }
 header .nav_box {
@@ -130,14 +130,9 @@ main .main-div .section-1 .blog-svg-div {
 main .main-div .section-1 .blog-svg-div .blog-svg {
   width: 200%;
   height: 100%;
-  margin-left: -70%;
-}
-main .main-div .section-2 {
-  border: 1px solid green;
-  background-color: purple;
+  margin-left: -72%;
 }
 main .main-div .section-2 .section-2-div {
-  border: 2px solid black;
   display: flex;
   justify-content: space-between;
   background-color: rgb(54, 116, 231);
@@ -148,7 +143,6 @@ main .main-div .section-2 .section-2-div {
   align-items: center;
 }
 main .main-div .section-2 .section-2-div .del-editable-div {
-  border: 1px solid red;
   margin-left: 5%;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div {
@@ -198,12 +192,10 @@ main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div 
   background-color: rgb(19, 18, 18);
 }
 main .main-div .section-2 .section-2-div .section-2-svg-div {
-  border: 1px solid yellow;
   max-width: 40%;
   max-height: 100%;
 }
 main .main-div .section-2 .section-2-div .section-2-svg-div .svg-eatery {
-  border: 1px solid pink;
   width: 100%;
   height: 100%;
 }/*# sourceMappingURL=styles.css.map */

@@ -7,7 +7,16 @@ $btnBgColor2: rgb(19, 18, 18);
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    // border: 1px soid skyblue !important;
 }
+
+// header{
+//     border: 4px solid pink;
+// }
+
+// body{
+//     border: 1px solid red;
+// }
 
 header {
     display: flex;
@@ -15,7 +24,7 @@ header {
     height: 100px;
     background-color: $bgColor1;
     align-items: center;
-    padding: 0 10%;
+    padding: 0 8%;
     border-bottom: 1px solid $bgColor2;
     // position: relative;
 
@@ -24,6 +33,7 @@ header {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        // border: 1px solid black;
 
         .nav_items {
             text-decoration: none;
@@ -89,6 +99,7 @@ header {
 main {
 // max-width: 1500px;
 // margin: 0 auto;
+// border: 1px solid black;
     .main-div {
 
         .section-1 {
@@ -168,21 +179,21 @@ main {
                 // height: -255%;
 
                 .blog-svg {
-                    // border: 1px solid black;
+                    // border: 1px solid green;
                     width: 200%;
                     height: 100%;
-                    margin-left: -70%;
+                    margin-left: -72%;
                 }
 
             }
         }
 
         .section-2 {
-            border: 1px solid green;
-            background-color: purple;
+            // border: 1px solid green;
+            // background-color: purple;
 
             .section-2-div {
-                border: 2px solid black;
+                // border: 2px solid black;
                 display: flex;
                 justify-content: space-between;
                 background-color: rgb(54, 116, 231);
@@ -196,7 +207,7 @@ main {
                 
 
                 .del-editable-div{
-                    border: 1px solid red;
+                    // border: 1px solid red;
                     margin-left: 5%;
 
                     .del-dollar-div {
@@ -231,10 +242,7 @@ main {
                                 height: 50%;
                                 width: 120%;
 
-                            }
-                                
-
-                            
+                            } 
                                 
                             .unstricken-dollar-p {
                                 // font-size: 350%;
@@ -280,13 +288,13 @@ main {
                 }
 
                 .section-2-svg-div {
-                    border: 1px solid yellow;
+                    // border: 1px solid yellow;
                     // padding-top: 40%;
                     max-width: 40%;
                     max-height: 100%;
 
                     .svg-eatery {
-                        border: 1px solid pink;
+                        // border: 1px solid pink;
                         width: 100%;
                         height: 100%;
                         // margin-left: 0%;
