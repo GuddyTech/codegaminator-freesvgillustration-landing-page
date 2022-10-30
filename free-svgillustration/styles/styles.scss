@@ -310,8 +310,14 @@ main {
             .section-3-div {
 
                 .free-ill-div {
+                    display: flex;
+                    justify-content: space-around;
 
-                    .free-ill-p {
+                    .free-ill-p-div {
+                        
+                        .free-ill-p {
+
+                        }
 
                     }
 
@@ -320,6 +326,8 @@ main {
                     }
 
                     .color-div {
+                        display: flex;
+                        justify-content: space-around;
 
                         .prim-color {
 
@@ -338,6 +346,7 @@ main {
 
                 .load-more-btn {
                     
+
                 }
 
 
