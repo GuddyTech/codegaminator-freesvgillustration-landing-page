@@ -72,11 +72,7 @@ header .nav_box .hamburger_line {
 main .main-div .section-1 {
   display: flex;
   justify-content: space-around;
-  border: 1px solid red;
   margin-top: 100px;
-}
-main .main-div .section-1 .section-1-beaut-div {
-  border: 1px solid blue;
 }
 main .main-div .section-1 .section-1-beaut-div .prod-p {
   font-size: 450%;
@@ -153,10 +149,10 @@ main .main-div .section-2 .section-2-div {
 }
 main .main-div .section-2 .section-2-div .del-editable-div {
   border: 1px solid red;
+  margin-left: 5%;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div {
   display: flex;
-  align-items: c;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deliv-div .deliv-p {
   font-size: 350%;
@@ -167,21 +163,16 @@ main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deli
   color: white;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .stricken-dollar-p {
-  font-size: 350%;
-  text-decoration: line-through;
-  color: rgb(10, 10, 97);
-  margin-top: 0%;
-  border: 1px solid black;
-  border-radius: 25%;
-  height: 80%;
-  width: 100%;
+  font-size: 250%;
+  color: rgb(54, 116, 231);
+  margin-top: 3%;
+  border: none;
+  border-radius: 50px;
+  height: 50%;
+  width: 120%;
 }
-main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .stricken-dollar-p span {
-  border: 1px solid red;
-  border-end-start-radius: 20px;
-}
-main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .unstricken-dollar-span .unstricken-dollar-p {
-  font-size: 350%;
+main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .dollar-div .unstricken-dollar-p {
+  color: black;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .editable-p {
   font-size: 150%;

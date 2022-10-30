@@ -94,11 +94,11 @@ main {
         .section-1 {
             display: flex;
             justify-content: space-around;
-            border: 1px solid red;
+            // border: 1px solid red;
             margin-top: 100px;
 
             .section-1-beaut-div {
-                border: 1px solid blue;
+                // border: 1px solid blue;
                 
                 .prod-p {
                     font-size: 450%;
@@ -197,11 +197,12 @@ main {
 
                 .del-editable-div{
                     border: 1px solid red;
+                    margin-left: 5%;
 
                     .del-dollar-div {
                         display: flex;
                         // justify-content: space-between;
-                        align-items: c;
+                        // align-items: c;
 
                         .deliv-div {
 
@@ -218,32 +219,30 @@ main {
 
                         .dollar-div {
                                 
-                                .stricken-dollar-p {
-                                    font-size: 350%;
-                                    text-decoration: line-through;
-                                    color: rgb(10, 10, 97);
-                                    margin-top: 0%;
-                                    border: 1px solid black;
-                                    border-radius: 25%;
-                                    // background-color: white;
-                                    height: 80%;
-                                    width: 100%;
+                            .stricken-dollar-p {
+                                font-size: 250%;
+                                // font-weight: px;
+                                // text-decoration: line-trough;
+                                color: rgb(54, 116, 231);
+                                margin-top: 3%;
+                                border: none;
+                                border-radius: 50px;
+                                // background-color: white;
+                                height: 50%;
+                                width: 120%;
 
-                                    span {
-                                        border: 1px solid red;
-                                        border-end-start-radius: 20px;
-                                    }
-                                }
-                                
-
-                            .unstricken-dollar-span {
-                                
-                                .unstricken-dollar-p {
-                                    font-size: 350%;
-                                    
-                                    
-                                }
                             }
+                                
+
+                            
+                                
+                            .unstricken-dollar-p {
+                                // font-size: 350%;
+                                // text-decoration-style: wav;
+                                color: black;
+                                    
+                            }
+                                
                         }
                     }
 
