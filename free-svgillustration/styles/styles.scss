@@ -323,6 +323,10 @@ main {
 
                     .search-input {
 
+                        .section-3-search-svg {
+                            cursor: pointer;
+                        }
+
                     }
 
                     .color-div {
@@ -345,7 +349,24 @@ main {
                 }
 
                 .load-more-btn {
-                    
+                    border: none;
+                        background-color: $btnBgColor;
+                        height: 40px;
+                        width: 150px;
+                        border-radius: 5px;
+                        font-size: 1rem;
+                        font-weight: 500px;
+                        color: white;
+                        cursor: pointer;
+                        display: block;
+                        transition:all 0.3s ease-in-out;
+                        // justify-content: center;
+
+                        &:hover {
+                            color: $btnBgColor;
+                            background-color: transparent;
+                            border: 1px solid;
+                        }
 
                 }
 

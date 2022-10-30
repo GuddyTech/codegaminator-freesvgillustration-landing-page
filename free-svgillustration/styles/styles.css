@@ -203,7 +203,28 @@ main .main-div .section-3 .section-3-div .free-ill-div {
   display: flex;
   justify-content: space-around;
 }
+main .main-div .section-3 .section-3-div .free-ill-div .search-input .section-3-search-svg {
+  cursor: pointer;
+}
 main .main-div .section-3 .section-3-div .free-ill-div .color-div {
   display: flex;
   justify-content: space-around;
+}
+main .main-div .section-3 .section-3-div .load-more-btn {
+  border: none;
+  background-color: rgb(41, 89, 232);
+  height: 40px;
+  width: 150px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 500px;
+  color: white;
+  cursor: pointer;
+  display: block;
+  transition: all 0.3s ease-in-out;
+}
+main .main-div .section-3 .section-3-div .load-more-btn:hover {
+  color: rgb(41, 89, 232);
+  background-color: transparent;
+  border: 1px solid;
 }/*# sourceMappingURL=styles.css.map */
