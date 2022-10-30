@@ -378,13 +378,14 @@ main {
                                 align-items: center;
                                 background-color: white;
                                 border-radius: 5px;
+                                transition: all 0.3s;
                                 
                                 // margin: 0 1px ;
                                 // flex-wrap: wrap;
 
                                 &:hover {
                                     // border-radius: 20px;
-                                    box-shadow: 4px 4px 4px 4px red ;
+                                    // box-shadow: 4px 4px 4px 4px red ;
                                     box-shadow: 1px 1px 14px 2px rgb(104, 99, 99) ;
                                 }
 

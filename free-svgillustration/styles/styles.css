@@ -236,9 +236,9 @@ main .main-div .section-3 .section-3-div .many-svg-div .sec-3-svg-div .div-1 .se
   align-items: center;
   background-color: white;
   border-radius: 5px;
+  transition: all 0.3s;
 }
 main .main-div .section-3 .section-3-div .many-svg-div .sec-3-svg-div .div-1 .sec-3-div-1:hover {
-  box-shadow: 4px 4px 4px 4px red;
   box-shadow: 1px 1px 14px 2px rgb(104, 99, 99);
 }
 main .main-div .section-3 .section-3-div .many-svg-div .sec-3-svg-div .div-1 .sec-3-div-1 .sec-3-svgs-1 {
