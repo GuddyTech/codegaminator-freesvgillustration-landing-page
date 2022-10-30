@@ -202,6 +202,9 @@ main .main-div .section-2 .section-2-div .section-2-svg-div .svg-eatery {
 main .main-div .section-3 {
   background-color: rgb(245, 245, 245);
 }
+main .main-div .section-3 .section-3-div {
+  border: 1px solid green;
+}
 main .main-div .section-3 .section-3-div .free-ill-div {
   display: flex;
   justify-content: space-around;
@@ -212,6 +215,14 @@ main .main-div .section-3 .section-3-div .free-ill-div .search-input .section-3-
 main .main-div .section-3 .section-3-div .free-ill-div .color-div {
   display: flex;
   justify-content: space-around;
+}
+main .main-div .section-3 .section-3-div .many-svg-div {
+  border: 1px solid black;
+}
+main .main-div .section-3 .section-3-div .many-svg-div .sec-3-svg-div .div-1 .sec-3-svg-div-1 .sec-3-svgs {
+  border: 1px solid red;
+  height: 80%;
+  width: 10%;
 }
 main .main-div .section-3 .section-3-div .load-more-btn {
   border: none;

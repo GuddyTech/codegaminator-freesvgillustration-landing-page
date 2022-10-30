@@ -309,6 +309,7 @@ main {
         .section-3 {
             background-color: rgb(245, 245, 245);
             .section-3-div {
+                border: 1px solid green;
 
                 .free-ill-div {
                     display: flex;
@@ -346,8 +347,25 @@ main {
                 }
 
                 .many-svg-div {
-                    .sec-3-svgs {
+                    border: 1px solid black;
+                    // display: flex;
+                    // justify-content: space-around;
+                    // flex-wrap: wrap;
 
+                    .sec-3-svg-div {
+
+                        .div-1 {
+
+                            .sec-3-svg-div-1 {
+
+                                .sec-3-svgs {
+                                    border: 1px solid red;
+                                    height: 80%;
+                                    width: 10%;
+                                }
+                            }
+                        }
+                        
                     }
 
                 }
