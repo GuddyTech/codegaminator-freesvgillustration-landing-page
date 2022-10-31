@@ -747,6 +747,32 @@ main {
 
             }
         }
+
+        .section-4 {
+
+            .section-4-div {
+
+                .sec-4-ill {
+                    // display: flex;
+                    // justify-content: center;
+                    // align-items: center;
+                    
+
+                    .sec-4-h3 {
+                        font-size: 230%;
+                        color: $pColor2;
+                        text-align: center;
+                    }
+
+                    .sec-4-we-span {
+                        color: $pColor1;
+                        font-size: 50%;
+                        margin-top: 2%;
+                    }
+
+                }
+            }
+        }
     }
 }
 

@@ -485,4 +485,14 @@ main .main-div .section-3 .section-3-div .sec-3-load-btn .load-more-btn:hover {
   color: rgb(41, 89, 232);
   background-color: transparent;
   border: 1px solid;
+}
+main .main-div .section-4 .section-4-div .sec-4-ill .sec-4-h3 {
+  font-size: 230%;
+  color: rgb(47, 47, 44);
+  text-align: center;
+}
+main .main-div .section-4 .section-4-div .sec-4-ill .sec-4-we-span {
+  color: rgb(93, 93, 89);
+  font-size: 50%;
+  margin-top: 2%;
 }/*# sourceMappingURL=styles.css.map */
