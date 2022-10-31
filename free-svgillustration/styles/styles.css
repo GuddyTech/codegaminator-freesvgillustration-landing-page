@@ -210,6 +210,14 @@ main .main-div .section-3 .section-3-div .free-ill-div {
   display: flex;
   justify-content: space-between;
 }
+main .main-div .section-3 .section-3-div .free-ill-div .free-ill-p-div .free-ill-p {
+  font-size: 150%;
+  color: rgb(47, 47, 44);
+}
+main .main-div .section-3 .section-3-div .free-ill-div .free-ill-p-div .free-ill-p .free-ill-p-span {
+  font-size: 70%;
+  color: rgb(93, 93, 89);
+}
 main .main-div .section-3 .section-3-div .free-ill-div .search-input .section-3-search-svg {
   cursor: pointer;
 }

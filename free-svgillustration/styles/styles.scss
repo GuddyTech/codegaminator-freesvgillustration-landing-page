@@ -2,6 +2,8 @@ $bgColor1: rgb(245, 245, 245);
 $bgColor2: rgb(224, 214, 214);
 $btnBgColor: rgb(41, 89, 232);
 $btnBgColor2: rgb(19, 18, 18);
+$pColor1: rgb(93, 93, 89);
+$pColor2: rgb(47, 47, 44);
 
 *{
     margin: 0;
@@ -322,6 +324,13 @@ main {
                     .free-ill-p-div {
                         
                         .free-ill-p {
+                            font-size: 150%;
+                            color: $pColor2;
+
+                            .free-ill-p-span {
+                                font-size: 70%;
+                                color: $pColor1;
+                            }
 
                         }
 
