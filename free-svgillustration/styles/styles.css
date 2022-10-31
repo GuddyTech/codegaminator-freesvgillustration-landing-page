@@ -463,7 +463,11 @@ main .main-div .section-3 .section-3-div .many-svg-div .sec-3-svg-div .div-7 .se
   color: rgb(93, 93, 89);
   text-align: center;
 }
-main .main-div .section-3 .section-3-div .load-more-btn {
+main .main-div .section-3 .section-3-div .sec-3-load-btn {
+  display: flex;
+  justify-content: center;
+}
+main .main-div .section-3 .section-3-div .sec-3-load-btn .load-more-btn {
   border: none;
   background-color: rgb(41, 89, 232);
   height: 40px;
@@ -475,8 +479,9 @@ main .main-div .section-3 .section-3-div .load-more-btn {
   cursor: pointer;
   display: block;
   transition: all 0.3s ease-in-out;
+  text-align: center;
 }
-main .main-div .section-3 .section-3-div .load-more-btn:hover {
+main .main-div .section-3 .section-3-div .sec-3-load-btn .load-more-btn:hover {
   color: rgb(41, 89, 232);
   background-color: transparent;
   border: 1px solid;

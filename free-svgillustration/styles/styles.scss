@@ -714,8 +714,12 @@ main {
 
                 }
 
-                .load-more-btn {
-                    border: none;
+                .sec-3-load-btn {
+                    display: flex;
+                    justify-content: center;
+
+                    .load-more-btn {
+                        border: none;
                         background-color: $btnBgColor;
                         height: 40px;
                         width: 150px;
@@ -726,17 +730,20 @@ main {
                         cursor: pointer;
                         display: block;
                         transition:all 0.3s ease-in-out;
+                        text-align: center;
+                        // justify-self: center;
                         // justify-content: center;
-
+    
                         &:hover {
                             color: $btnBgColor;
                             background-color: transparent;
                             border: 1px solid;
                         }
+    
+                    }
+    
 
                 }
-
-
 
             }
         }
