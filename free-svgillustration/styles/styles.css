@@ -560,6 +560,15 @@ main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-2 .se
   height: 100%;
   width: 95%;
 }
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-2 .sec-3-div-2 .sec-3-svgs-2 .section-4-btn {
+  background-color: rgb(207, 233, 252);
+  border: none;
+  color: blue;
+  border-radius: 50px;
+  height: -90%;
+  width: 50%;
+  font-size: 200%;
+}
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-2 .sec-3-div-2 .fig-1 {
   color: rgb(93, 93, 89);
   text-align: center;
@@ -582,16 +591,18 @@ main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .se
   border-radius: 5px;
   transition: all 0.3s;
 }
-main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3:hover {
-  box-shadow: 1px 1px 14px 2px rgb(104, 99, 99);
-}
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 .sec-3-svgs-3 {
   height: 100%;
   width: 95%;
 }
-main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 .fig-1 {
-  color: rgb(93, 93, 89);
-  text-align: center;
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 .sec-3-svgs-3 .section-4-btn {
+  background-color: rgb(207, 233, 252);
+  border: none;
+  color: blue;
+  border-radius: 50px;
+  height: -90%;
+  width: 50%;
+  font-size: 200%;
 }
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 {
   display: flex;
@@ -611,14 +622,16 @@ main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .se
   border-radius: 5px;
   transition: all 0.3s;
 }
-main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4:hover {
-  box-shadow: 1px 1px 14px 2px rgb(104, 99, 99);
-}
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .sec-3-svgs-4 {
   height: 100%;
   width: 95%;
 }
-main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .fig-1 {
-  color: rgb(93, 93, 89);
-  text-align: center;
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .sec-3-svgs-4 .section-4-btn {
+  background-color: rgb(207, 233, 252);
+  border: none;
+  color: blue;
+  border-radius: 50px;
+  height: -90%;
+  width: 50%;
+  font-size: 200%;
 }/*# sourceMappingURL=styles.css.map */
