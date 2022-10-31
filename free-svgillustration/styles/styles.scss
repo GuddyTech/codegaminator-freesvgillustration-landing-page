@@ -337,9 +337,25 @@ main {
                     }
 
                     .search-input {
+                        font-size: 150%;
+                        color: $pColor2;
+                        position: relative;
+                        
+
+                        .input-text {
+                            height: 50%;
+                            width: 160%;
+                            // border: 1px solid red;
+                            padding-left: 15%;
+                            padding-right: 20%;
+                            // border-radius: 5px;
+                        }
 
                         .section-3-search-svg {
                             cursor: pointer;
+                            position: absolute;
+                            left: 140%;
+                            top: 44%;
                         }
 
                     }
@@ -349,10 +365,13 @@ main {
                         justify-content: space-around;
 
                         .prim-color {
-
+                            font-size: 150%;
+                            color: $pColor2;
                         }
 
                         .sec-color {
+                            font-size: 150%;
+                            color: $pColor2;
 
                         }
                     }
