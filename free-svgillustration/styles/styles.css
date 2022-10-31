@@ -607,6 +607,14 @@ main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .se
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 .sec-3-svgs-3 .sports {
   font-size: 130%;
 }
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 .sec-3-svgs-3 .sports .sports-a {
+  text-decoration: none;
+  color: rgb(47, 47, 44);
+  transition: all 0.1s ease-in;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 .sec-3-svgs-3 .sports .sports-a:hover {
+  color: rgb(41, 89, 232);
+}
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 {
   display: flex;
   justify-content: space-around;
@@ -640,6 +648,16 @@ main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .se
 }
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .sec-3-svgs-4 .sports {
   font-size: 130%;
+  color: yellow;
+  text-decoration: none;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .sec-3-svgs-4 .sports .sports-a {
+  text-decoration: none;
+  color: rgb(47, 47, 44);
+  transition: all 0.1s ease-in;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .sec-3-svgs-4 .sports .sports-a:hover {
+  color: rgb(41, 89, 232);
 }
 main .main-div .section-4 .section-4-div .sec-4-see-btn {
   display: flex;

@@ -933,6 +933,17 @@ main {
                                     .sports {
                                         font-size: 130%;
                                         // background-color: yellow;
+
+                                        .sports-a {
+                                            text-decoration: none;
+                                            color: $pColor2;
+                                            transition: all 0.1s ease-in;
+                                            // background-color: green;
+
+                                            &:hover {
+                                                color: $btnBgColor;
+                                            }
+                                        }
                                     }
                                     
                                 }
@@ -992,7 +1003,21 @@ main {
 
                                     .sports {
                                         font-size: 130%;
+                                        color: yellow;
+                                        text-decoration: none;
                                         // background-color: yellow;
+
+                                        .sports-a {
+                                            text-decoration: none;
+                                            color: $pColor2;
+                                            transition: all 0.1s ease-in;
+                                            // background-color: green;
+
+                                            &:hover {
+                                                color: $btnBgColor;
+                                            }
+                                        }
+
                                     }
                                     
                                 }
