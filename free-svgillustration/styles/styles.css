@@ -486,6 +486,13 @@ main .main-div .section-3 .section-3-div .sec-3-load-btn .load-more-btn:hover {
   background-color: transparent;
   border: 1px solid;
 }
+main .main-div .section-4 {
+  background-color: rgb(245, 245, 245);
+}
+main .main-div .section-4 .section-4-div {
+  max-width: 83%;
+  margin-left: 8.5%;
+}
 main .main-div .section-4 .section-4-div .sec-4-ill .sec-4-h3 {
   font-size: 230%;
   color: rgb(47, 47, 44);
@@ -495,4 +502,123 @@ main .main-div .section-4 .section-4-div .sec-4-ill .sec-4-we-span {
   color: rgb(93, 93, 89);
   font-size: 50%;
   margin-top: 2%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div {
+  margin-left: -0.2%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 -1.3%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-1 .sec-3-div-1 {
+  max-width: 31%;
+  min-height: 100%;
+  min-width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-1 .sec-3-div-1:hover {
+  box-shadow: 1px 1px 14px 2px rgb(104, 99, 99);
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-1 .sec-3-div-1 .sec-3-svgs-1 {
+  height: 100%;
+  width: 95%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-1 .sec-3-div-1 .fig-1 {
+  color: rgb(93, 93, 89);
+  text-align: center;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 -1.3%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-2 .sec-3-div-2 {
+  max-width: 31%;
+  min-height: 100%;
+  min-width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-2 .sec-3-div-2:hover {
+  box-shadow: 1px 1px 14px 2px rgb(104, 99, 99);
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-2 .sec-3-div-2 .sec-3-svgs-2 {
+  height: 100%;
+  width: 95%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-2 .sec-3-div-2 .fig-1 {
+  color: rgb(93, 93, 89);
+  text-align: center;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 -1.3%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 {
+  max-width: 31%;
+  min-height: 100%;
+  min-width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3:hover {
+  box-shadow: 1px 1px 14px 2px rgb(104, 99, 99);
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 .sec-3-svgs-3 {
+  height: 100%;
+  width: 95%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-3 .sec-3-div-3 .fig-1 {
+  color: rgb(93, 93, 89);
+  text-align: center;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 -1.3%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 {
+  max-width: 31%;
+  min-height: 100%;
+  min-width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4:hover {
+  box-shadow: 1px 1px 14px 2px rgb(104, 99, 99);
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .sec-3-svgs-4 {
+  height: 100%;
+  width: 95%;
+}
+main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .fig-1 {
+  color: rgb(93, 93, 89);
+  text-align: center;
 }/*# sourceMappingURL=styles.css.map */
