@@ -901,7 +901,7 @@ main {
                                 display: flex;
                                 justify-content: space-between;
                                 align-items: center;
-                                background-color: white;
+                                // background-color: white;
                                 border-radius: 5px;
                                 transition: all 0.3s;
                                 
@@ -924,9 +924,15 @@ main {
                                         border:none;
                                         color: blue;
                                         border-radius: 50px;
-                                        height: -90%;
-                                        width: 50%;
-                                        font-size: 200%;
+                                        height: 140%;
+                                        width: 40%;
+                                        font-size: 180%;
+                                        font-weight: bolder;
+                                    }
+
+                                    .sports {
+                                        font-size: 130%;
+                                        // background-color: yellow;
                                     }
                                     
                                 }
@@ -955,7 +961,7 @@ main {
                                 display: flex;
                                 justify-content: space-between;
                                 align-items: center;
-                                background-color: white;
+                                // background-color: white;
                                 border-radius: 5px;
                                 transition: all 0.3s;
                                 
@@ -978,9 +984,15 @@ main {
                                         border:none;
                                         color: blue;
                                         border-radius: 50px;
-                                        height: -90%;
-                                        width: 50%;
-                                        font-size: 200%;
+                                        height: 140%;
+                                        width: 40%;
+                                        font-size: 180%;
+                                        font-weight: bolder;
+                                    }
+
+                                    .sports {
+                                        font-size: 130%;
+                                        // background-color: yellow;
                                     }
                                     
                                 }
@@ -996,6 +1008,34 @@ main {
                     }
                 }
 
+                .sec-4-see-btn {
+                    display: flex;
+                    justify-content: center;
+
+                    .see-more-btn {
+                        border: none;
+                        background-color: $btnBgColor;
+                        height: 40px;
+                        width: 150px;
+                        border-radius: 5px;
+                        font-size: 1rem;
+                        font-weight: 500px;
+                        color: white;
+                        cursor: pointer;
+                        display: block;
+                        transition:all 0.3s ease-in-out;
+                        text-align: center;
+                        // justify-self: center;
+                        // justify-content: center;
+    
+                        &:hover {
+                            color: $btnBgColor;
+                            background-color: transparent;
+                            border: 1px solid;
+                        }
+    
+                    }
+                }
             }
 
                  
