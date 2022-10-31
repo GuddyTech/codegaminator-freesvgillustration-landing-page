@@ -242,10 +242,20 @@ main .main-div .section-3 .section-3-div .free-ill-div .color-div {
 main .main-div .section-3 .section-3-div .free-ill-div .color-div .prim-color {
   font-size: 150%;
   color: rgb(47, 47, 44);
+  margin-right: 10%;
+}
+main .main-div .section-3 .section-3-div .free-ill-div .color-div .prim-color .input-prim-color {
+  height: 50%;
+  width: 100%;
 }
 main .main-div .section-3 .section-3-div .free-ill-div .color-div .sec-color {
   font-size: 150%;
   color: rgb(47, 47, 44);
+  margin-right: 10%;
+}
+main .main-div .section-3 .section-3-div .free-ill-div .color-div .sec-color .input-sec-color {
+  height: 50%;
+  width: 100%;
 }
 main .main-div .section-3 .section-3-div .many-svg-div {
   margin-left: -0.2%;

@@ -367,11 +367,24 @@ main {
                         .prim-color {
                             font-size: 150%;
                             color: $pColor2;
+                            margin-right: 10%;
+
+                            .input-prim-color {
+                                height: 50%;
+                                width: 100%;
+
+                            }
                         }
 
                         .sec-color {
                             font-size: 150%;
                             color: $pColor2;
+                            margin-right: 10%;
+
+                            .input-sec-color {
+                                height: 50%;
+                                width: 100%;
+                            }
 
                         }
                     }
