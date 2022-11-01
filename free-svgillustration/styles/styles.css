@@ -739,6 +739,7 @@ main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-soci
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .mega .mega-p .mega-p-text {
   color: white;
   transition: all 0.3s ease-in-out;
+  text-decoration: none;
 }
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .mega .mega-p .mega-p-text:hover {
   color: rgb(41, 89, 232);
@@ -746,12 +747,34 @@ main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-soci
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social {
   width: 12%;
 }
+main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .insta {
+  transition: all 0.3s ease-in-out;
+}
+main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .insta:hover {
+  transform: rotate(60deg);
+}
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .pinterest {
   margin-left: 20%;
+  transition: all 0.3s ease-in-out;
+}
+main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .pinterest:hover {
+  transform: rotate(60deg);
 }
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .twitter {
   margin-left: 20%;
+  transition: all 0.3s ease-in-out;
+}
+main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .twitter:hover {
+  transform: rotate(60deg);
+}
+main .main-div .section-6 .section-6-main .section-6-div hr {
+  width: 50%;
+  text-align: center;
 }
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-p {
+  color: white;
+  text-align: center;
+}
+main .main-div .section-6 .section-6-main .section-6-div .sect-6-p .sect-6-p-a {
   color: white;
 }/*# sourceMappingURL=styles.css.map */

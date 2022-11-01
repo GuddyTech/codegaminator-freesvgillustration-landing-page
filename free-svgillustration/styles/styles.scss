@@ -1179,6 +1179,7 @@ main {
                                     .mega-p-text {
                                         color: white;
                                         transition: all 0.3s ease-in-out;
+                                        text-decoration: none;
 
                                         &:hover {
                                             color: $btnBgColor;
@@ -1196,18 +1197,46 @@ main {
                                 .insta {
                                     // margin: 0 10%;
                                     // border: 1px solid black;
+                                    // color: white;
+                                    transition: all 0.3s ease-in-out;
+
+                                    &:hover {
+                                        // background-color: blue;
+                                        // color: blue;
+                                        transform: rotate(60deg);
+                                        // fill: blue;
+                                        
+                                    }
                                 }
 
                                 .pinterest {
                                     // border: 1px solid black;
                                     // margin-right: 20%;
                                     margin-left: 20%;
+                                    transition: all 0.3s ease-in-out;
+
+                                    &:hover {
+                                        // background-color: blue;
+                                        // color: blue;
+                                        transform: rotate(60deg);
+                                        // fill: blue;
+                                        
+                                    }
 
                                 }
 
                                 .twitter {
                                     // border: 1px solid black;
                                     margin-left: 20%;  
+                                    transition: all 0.3s ease-in-out;
+
+                                    &:hover {
+                                        // background-color: blue;
+                                        // color: blue;
+                                        transform: rotate(60deg);
+                                        // fill: blue;
+                                        
+                                    }
 
                                 }
     
@@ -1218,11 +1247,19 @@ main {
                     }
     
                     hr {
+                        width: 50%;
+                        text-align: center;
     
                     }
     
                     .sect-6-p {
                         color: white;
+                        text-align: center;
+                        
+                        .sect-6-p-a {
+                            color: white;
+
+                        }
     
                     }
     
