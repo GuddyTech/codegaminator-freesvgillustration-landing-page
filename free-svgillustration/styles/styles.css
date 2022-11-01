@@ -725,4 +725,8 @@ main .main-div .section-5 .section-5-div .sect-5-div-3 {
   position: absolute;
   top: 5%;
   left: 85%;
+}
+main .main-div .section-6 .section-6-main {
+  background-color: skyblue;
+  border: 1px solid black;
 }/*# sourceMappingURL=styles.css.map */
