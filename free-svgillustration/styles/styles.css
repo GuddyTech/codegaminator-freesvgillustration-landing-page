@@ -635,6 +635,8 @@ main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .se
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .sec-3-svgs-4 {
   height: 100%;
   width: 95%;
+  text-align: justify;
+  text-justify: inter-word;
 }
 main .main-div .section-4 .section-4-div .many-svg-div .sec-3-svg-div .div-4 .sec-3-div-4 .sec-3-svgs-4 .section-4-btn {
   background-color: rgb(207, 233, 252);
