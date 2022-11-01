@@ -1112,12 +1112,14 @@ main {
 
                     .editable-browse-div {
                         align-items: center;
-                        border: 1px solid purple
+                        border: 2px solid purple;
+                        margin-right: 2044%;
 
                         .editable-p {
                             font-size: 150%;
                             color: white;
-                            // align-items: center;
+                            border: 1px solid black
+                            align-items: center;
                         }
 
                         .browse-btn {

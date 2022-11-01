@@ -704,11 +704,13 @@ main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deli
 }
 main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div {
   align-items: center;
-  border: 1px solid red;
+  border: 2px solid purple;
+  margin: 0 auto;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .editable-p {
   font-size: 150%;
   color: white;
+  border: 1px solid black;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .browse-btn {
   border: none;
