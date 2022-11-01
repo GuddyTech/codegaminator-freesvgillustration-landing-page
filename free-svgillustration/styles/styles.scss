@@ -1168,7 +1168,8 @@ main {
                             display: flex;
                             justify-content: space-between;
                             align-items: center;
-                            margin: 0 20%;
+                            margin: 0 9%;
+                            border: 1px solid blue;
     
                             .mega {
     
@@ -1179,17 +1180,25 @@ main {
                             }
     
                             .social {
+                                border: 1px solid black;
+                                width: 12%;
                                 
 
                                 .insta {
-
+                                    // margin: 0 10%;
+                                    border: 1px solid black;
                                 }
 
                                 .pinterest {
+                                    border: 1px solid black;
+                                    // margin-right: 20%;
+                                    margin-left: 20%;
 
                                 }
 
                                 .twitter {
+                                    border: 1px solid black;
+                                    margin-left: 20%;  
 
                                 }
     
