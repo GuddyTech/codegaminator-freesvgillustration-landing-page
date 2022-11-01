@@ -1079,12 +1079,21 @@ main {
                 text-align: center;
                 border: 1px solid black;
                 border-radius: 20px;
-                // position: relative;
-                // height: 100%;
+                position: relative;
                 
+                // height: 100%;
+                // display: flex;
+                justify-content: space-between;
                 // width: 80%;
 
-                .sect-5-div-2 {
+                .sect-5-div-1 {
+                    border: 1px solid black;
+                    position: absolute;
+
+                    .three-birds {
+                        margin-left: 40%;
+
+                    }
 
                 }
 
@@ -1125,7 +1134,11 @@ main {
                 }
 
                 .sect-5-div-3 {
+                    position: asolute;
 
+                    .one-bird {
+                        margin: 30% 40%;
+                    }
                 }
 
             }
