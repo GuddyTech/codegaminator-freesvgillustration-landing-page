@@ -727,7 +727,7 @@ main .main-div .section-5 .section-5-div .sect-5-div-3 {
   left: 85%;
 }
 main .main-div .section-6 .section-6-main {
-  background-color: skyblue;
+  background-color: rgb(58, 67, 70);
   border: 1px solid black;
 }
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social {
@@ -735,20 +735,23 @@ main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-soci
   justify-content: space-between;
   align-items: center;
   margin: 0 9%;
-  border: 1px solid blue;
+}
+main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .mega .mega-p .mega-p-text {
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .mega .mega-p .mega-p-text:hover {
+  color: rgb(41, 89, 232);
 }
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social {
-  border: 1px solid black;
   width: 12%;
 }
-main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .insta {
-  border: 1px solid black;
-}
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .pinterest {
-  border: 1px solid black;
   margin-left: 20%;
 }
 main .main-div .section-6 .section-6-main .section-6-div .sect-6-flex .mega-social .social .twitter {
-  border: 1px solid black;
   margin-left: 20%;
+}
+main .main-div .section-6 .section-6-main .section-6-div .sect-6-p {
+  color: white;
 }/*# sourceMappingURL=styles.css.map */

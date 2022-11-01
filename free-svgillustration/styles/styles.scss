@@ -1157,7 +1157,7 @@ main {
         .section-6 {
 
             .section-6-main {
-                background-color: skyblue;
+                background-color: rgb(58, 67, 70);
                 border: 1px solid black;
     
                 .section-6-div {
@@ -1169,35 +1169,44 @@ main {
                             justify-content: space-between;
                             align-items: center;
                             margin: 0 9%;
-                            border: 1px solid blue;
+                            // border: 1px solid blue;
     
                             .mega {
     
     
                                 .mega-p {
-    
+                                   
+                                    .mega-p-text {
+                                        color: white;
+                                        transition: all 0.3s ease-in-out;
+
+                                        &:hover {
+                                            color: $btnBgColor;
+                                        }
+        
+                                    }
                                 }
                             }
     
                             .social {
-                                border: 1px solid black;
+                                // border: 1px solid black;
                                 width: 12%;
                                 
 
                                 .insta {
                                     // margin: 0 10%;
-                                    border: 1px solid black;
+                                    // border: 1px solid black;
                                 }
 
                                 .pinterest {
-                                    border: 1px solid black;
+                                    // border: 1px solid black;
                                     // margin-right: 20%;
                                     margin-left: 20%;
 
                                 }
 
                                 .twitter {
-                                    border: 1px solid black;
+                                    // border: 1px solid black;
                                     margin-left: 20%;  
 
                                 }
@@ -1213,6 +1222,7 @@ main {
                     }
     
                     .sect-6-p {
+                        color: white;
     
                     }
     
