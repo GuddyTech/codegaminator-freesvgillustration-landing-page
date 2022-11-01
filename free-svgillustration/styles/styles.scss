@@ -1071,32 +1071,38 @@ main {
             // background-color: purple;
 
             .section-2-div {
-                // border: 2px solid black;
-                display: flex;
-                justify-content: space-between;
+                border: 2px solid black;
+                // display: flex;
+                // justify-content: space-between;
                 background-color: rgb(54, 116, 231);
                 border-radius: 5px;
                 max-width: 83%;
                 width: 100%;
                 margin: 0 auto;
-                align-items: center;
+                // align-items: center;
                 // width:90%;
                 // margin: 0 8%;
                 
 
                 .del-editable-div{
                     // border: 1px solid red;
-                    margin-left: 5%;
+                    // margin-left: 5%;
+                    border: 1px solid green;
+                    // align-items: center;
+                    margin: 0 auto;
 
                     .del-dollar-div {
-                        display: flex;
+                        // display: flex;
                         // justify-content: space-between;
                         // align-items: c;
 
+
                         .deliv-div {
+                            text-align: center;
+                            border: 1px solid red;
 
                             .deliv-p {
-                                font-size: 350%;
+                                font-size: 450%;
                                 color: white;
                             }
 
@@ -1105,10 +1111,13 @@ main {
                     }
 
                     .editable-browse-div {
+                        align-items: center;
+                        border: 1px solid purple
 
                         .editable-p {
                             font-size: 150%;
                             color: white;
+                            // align-items: center;
                         }
 
                         .browse-btn {
@@ -1125,6 +1134,7 @@ main {
                             transition:all 0.3s ease-in-out;
                             margin-right: 35%;
                             border: none;
+                            // align-content: center;
 
                             &:hover {
                                 color: white;

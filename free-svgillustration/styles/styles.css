@@ -683,24 +683,28 @@ main .main-div .section-4 .section-4-div .sec-4-see-btn .see-more-btn:hover {
   border: 1px solid;
 }
 main .main-div .section-2 .section-2-div {
-  display: flex;
-  justify-content: space-between;
+  border: 2px solid black;
   background-color: rgb(54, 116, 231);
   border-radius: 5px;
   max-width: 83%;
   width: 100%;
   margin: 0 auto;
-  align-items: center;
 }
 main .main-div .section-2 .section-2-div .del-editable-div {
-  margin-left: 5%;
+  border: 1px solid green;
+  margin: 0 auto;
 }
-main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div {
-  display: flex;
+main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deliv-div {
+  text-align: center;
+  border: 1px solid red;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deliv-div .deliv-p {
-  font-size: 350%;
+  font-size: 450%;
   color: white;
+}
+main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div {
+  align-items: center;
+  border: 1px solid red;
 }
 main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .editable-p {
   font-size: 150%;
