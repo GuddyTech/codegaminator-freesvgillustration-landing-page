@@ -682,52 +682,15 @@ main .main-div .section-4 .section-4-div .sec-4-see-btn .see-more-btn:hover {
   background-color: transparent;
   border: 1px solid;
 }
-main .main-div .section-2 .section-2-div {
-  border: 2px solid black;
+main .main-div .section-5 {
   background-color: rgb(54, 116, 231);
   border-radius: 5px;
   max-width: 83%;
   width: 100%;
   margin: 0 auto;
-}
-main .main-div .section-2 .section-2-div .del-editable-div {
-  border: 1px solid green;
-  margin: 0 auto;
-}
-main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deliv-div {
-  text-align: center;
-  border: 1px solid red;
-}
-main .main-div .section-2 .section-2-div .del-editable-div .del-dollar-div .deliv-div .deliv-p {
-  font-size: 450%;
-  color: white;
-}
-main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div {
   align-items: center;
-  border: 2px solid purple;
-  margin: 0 auto;
+  border: 10px solid yellow;
 }
-main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .editable-p {
-  font-size: 150%;
-  color: white;
-  border: 1px solid black;
-}
-main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .browse-btn {
-  border: none;
-  background-color: white;
-  height: 40px;
-  width: 150px;
-  border-radius: 5px;
-  font-size: 1rem;
-  font-weight: 500px;
-  color: rgb(41, 89, 232);
-  cursor: pointer;
-  display: block;
-  transition: all 0.3s ease-in-out;
-  margin-right: 35%;
-  border: none;
-}
-main .main-div .section-2 .section-2-div .del-editable-div .editable-browse-div .browse-btn:hover {
-  color: white;
-  background-color: rgb(19, 18, 18);
+main .main-div .section-5 .section-5-div {
+  text-align: center;
 }/*# sourceMappingURL=styles.css.map */

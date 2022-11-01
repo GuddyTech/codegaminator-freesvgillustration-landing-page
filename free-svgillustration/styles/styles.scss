@@ -1066,106 +1066,32 @@ main {
                  
         }
 
-        .section-2 {
-            // border: 1px solid green;
-            // background-color: purple;
+        .section-5 {
+            background-color: rgb(54, 116, 231);
+            border-radius: 5px;
+            max-width: 83%;
+            width: 100%;
+            margin: 0 auto;
+            align-items: center;
+            border: 10px solid yellow;
 
-            .section-2-div {
-                border: 2px solid black;
-                // display: flex;
-                // justify-content: space-between;
-                background-color: rgb(54, 116, 231);
-                border-radius: 5px;
-                max-width: 83%;
-                width: 100%;
-                margin: 0 auto;
-                // align-items: center;
-                // width:90%;
-                // margin: 0 8%;
-                
+            .section-5-div {
+                text-align: center;
 
-                .del-editable-div{
-                    // border: 1px solid red;
-                    // margin-left: 5%;
-                    border: 1px solid green;
-                    // align-items: center;
-                    margin: 0 auto;
-
-                    .del-dollar-div {
-                        // display: flex;
-                        // justify-content: space-between;
-                        // align-items: c;
-
-
-                        .deliv-div {
-                            text-align: center;
-                            border: 1px solid red;
-
-                            .deliv-p {
-                                font-size: 450%;
-                                color: white;
-                            }
-
-                        }
-
-                    }
-
-                    .editable-browse-div {
-                        align-items: center;
-                        border: 2px solid purple;
-                        margin-right: 2044%;
-
-                        .editable-p {
-                            font-size: 150%;
-                            color: white;
-                            border: 1px solid black
-                            align-items: center;
-                        }
-
-                        .browse-btn {
-                            border: none;
-                            background-color: white;
-                            height: 40px;
-                            width: 150px;
-                            border-radius: 5px;
-                            font-size: 1rem;
-                            font-weight: 500px;
-                            color: $btnBgColor;
-                            cursor: pointer;
-                            display: block;
-                            transition:all 0.3s ease-in-out;
-                            margin-right: 35%;
-                            border: none;
-                            // align-content: center;
-
-                            &:hover {
-                                color: white;
-                                background-color: $btnBgColor2;
-                                
-                            }
-
-                        }
-                    }
+                .sect-5-h3 {
+                    
 
                 }
 
-                // .section-2-svg-div {
-                //     // border: 1px solid yellow;
-                //     // padding-top: 40%;
-                //     max-width: 40%;
-                //     max-height: 100%;
+                .sect-5-p {
 
-                //     .svg-eatery {
-                //         // border: 1px solid pink;
-                //         width: 100%;
-                //         height: 100%;
-                //         // margin-left: 0%;
-                //         // height: 50%;
-                //         // width: 60%;
-                //     }
+                    .sect-5-span {
 
-                // }
+                    }
+                }
             }
+            
+
         }
         
   
