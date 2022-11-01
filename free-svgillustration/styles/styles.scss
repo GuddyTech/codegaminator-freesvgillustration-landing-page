@@ -1080,17 +1080,39 @@ main {
 
                 .sect-5-h3 {
                     font-size: 450%;
-                    
+                    color: $pColor2; 
 
                 }
 
                 .sect-5-p {
                     font-size: 180%;
-
-                    .sect-5-span {
-
-                    }
+                    color: $pColor2;
+                
                 }
+
+                .sect-5-enc {
+                    border: none;
+                    background-color: $btnBgColor2;
+                    height: 40px;
+                    width: 160px;
+                    border-radius: 5px;
+                    font-size: 1rem;
+                    font-weight: 500px;
+                    color: white;
+                    cursor: pointer;
+                    // display: block;
+                    transition:all 0.3s ease-in-out;
+    
+                    &:hover {
+                        color: $btnBgColor2;
+                        background-color: transparent;
+                        border: 1px solid;
+                    }
+
+
+                }
+
+
             }
             
 

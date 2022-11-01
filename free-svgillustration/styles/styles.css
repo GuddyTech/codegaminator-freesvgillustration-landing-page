@@ -696,7 +696,26 @@ main .main-div .section-5 .section-5-div {
 }
 main .main-div .section-5 .section-5-div .sect-5-h3 {
   font-size: 450%;
+  color: rgb(47, 47, 44);
 }
 main .main-div .section-5 .section-5-div .sect-5-p {
   font-size: 180%;
+  color: rgb(47, 47, 44);
+}
+main .main-div .section-5 .section-5-div .sect-5-enc {
+  border: none;
+  background-color: rgb(19, 18, 18);
+  height: 40px;
+  width: 160px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 500px;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+main .main-div .section-5 .section-5-div .sect-5-enc:hover {
+  color: rgb(19, 18, 18);
+  background-color: transparent;
+  border: 1px solid;
 }/*# sourceMappingURL=styles.css.map */
