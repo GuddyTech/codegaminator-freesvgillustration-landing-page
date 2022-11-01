@@ -1157,7 +1157,7 @@ main {
         .section-6 {
 
             .section-6-main {
-                background-color: rgb(58, 67, 70);
+                background-color: $btnBgColor2;
                 border: 1px solid black;
     
                 .section-6-div {
@@ -1247,8 +1247,11 @@ main {
                     }
     
                     hr {
-                        width: 50%;
-                        text-align: center;
+                        width: 82%;
+                        // height: 0.001px;
+                        justify-items: center;
+                        margin: 0 9%;
+                        border: 0.02px solid rgb(48, 46, 46);
     
                     }
     
