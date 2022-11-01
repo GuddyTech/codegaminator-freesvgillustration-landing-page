@@ -1165,6 +1165,10 @@ main {
                     .sect-6-flex {
     
                         .mega-social {
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: center;
+                            margin: 0 20%;
     
                             .mega {
     
@@ -1175,6 +1179,19 @@ main {
                             }
     
                             .social {
+                                
+
+                                .insta {
+
+                                }
+
+                                .pinterest {
+
+                                }
+
+                                .twitter {
+
+                                }
     
                             }
     
