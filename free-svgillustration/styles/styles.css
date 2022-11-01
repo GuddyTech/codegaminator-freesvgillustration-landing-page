@@ -682,27 +682,20 @@ main .main-div .section-4 .section-4-div .sec-4-see-btn .see-more-btn:hover {
   background-color: transparent;
   border: 1px solid;
 }
-main .main-div .section-5 {
-  background-color: rgb(54, 116, 231);
-  border-radius: 5px;
-  max-width: 83%;
-  width: 100%;
-  margin: 0 auto;
-  align-items: center;
-  border: 10px solid yellow;
-}
 main .main-div .section-5 .section-5-div {
   text-align: center;
+  border: 1px solid black;
+  border-radius: 20px;
 }
-main .main-div .section-5 .section-5-div .sect-5-h3 {
+main .main-div .section-5 .section-5-div .sect-5-div-2 .sect-5-h3 {
   font-size: 450%;
   color: rgb(47, 47, 44);
 }
-main .main-div .section-5 .section-5-div .sect-5-p {
+main .main-div .section-5 .section-5-div .sect-5-div-2 .sect-5-p {
   font-size: 180%;
   color: rgb(47, 47, 44);
 }
-main .main-div .section-5 .section-5-div .sect-5-enc {
+main .main-div .section-5 .section-5-div .sect-5-div-2 .sect-5-enc {
   border: none;
   background-color: rgb(19, 18, 18);
   height: 40px;
@@ -714,7 +707,7 @@ main .main-div .section-5 .section-5-div .sect-5-enc {
   cursor: pointer;
   transition: all 0.3s ease-in-out;
 }
-main .main-div .section-5 .section-5-div .sect-5-enc:hover {
+main .main-div .section-5 .section-5-div .sect-5-div-2 .sect-5-enc:hover {
   color: rgb(19, 18, 18);
   background-color: transparent;
   border: 1px solid;

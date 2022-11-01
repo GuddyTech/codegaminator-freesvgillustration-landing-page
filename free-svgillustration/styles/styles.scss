@@ -1067,51 +1067,66 @@ main {
         }
 
         .section-5 {
-            background-color: rgb(54, 116, 231);
-            border-radius: 5px;
-            max-width: 83%;
-            width: 100%;
-            margin: 0 auto;
-            align-items: center;
-            border: 10px solid yellow;
+            // background-color: rgb(54, 116, 231);
+            // border-radius: 5px;
+            // max-width: 83%;
+            // width: 100%;
+            // margin: 0 auto;
+            // align-items: center;
+            // border: 10px solid yellow;
 
             .section-5-div {
                 text-align: center;
-
-                .sect-5-h3 {
-                    font-size: 450%;
-                    color: $pColor2; 
-
-                }
-
-                .sect-5-p {
-                    font-size: 180%;
-                    color: $pColor2;
+                border: 1px solid black;
+                border-radius: 20px;
+                // position: relative;
+                // height: 100%;
                 
+                // width: 80%;
+
+                .sect-5-div-2 {
+
                 }
 
-                .sect-5-enc {
-                    border: none;
-                    background-color: $btnBgColor2;
-                    height: 40px;
-                    width: 160px;
-                    border-radius: 5px;
-                    font-size: 1rem;
-                    font-weight: 500px;
-                    color: white;
-                    cursor: pointer;
-                    // display: block;
-                    transition:all 0.3s ease-in-out;
+                .sect-5-div-2 {
+                    .sect-5-h3 {
+                        font-size: 450%;
+                        color: $pColor2; 
     
-                    &:hover {
-                        color: $btnBgColor2;
-                        background-color: transparent;
-                        border: 1px solid;
                     }
-
-
+    
+                    .sect-5-p {
+                        font-size: 180%;
+                        color: $pColor2;
+                    
+                    }
+    
+                    .sect-5-enc {
+                        border: none;
+                        background-color: $btnBgColor2;
+                        height: 40px;
+                        width: 160px;
+                        border-radius: 5px;
+                        font-size: 1rem;
+                        font-weight: 500px;
+                        color: white;
+                        cursor: pointer;
+                        // display: block;
+                        transition:all 0.3s ease-in-out;
+        
+                        &:hover {
+                            color: $btnBgColor2;
+                            background-color: transparent;
+                            border: 1px solid;
+                        }
+    
+    
+                    }
                 }
 
+                .sect-5-div-3 {
+
+                }
 
             }
             
