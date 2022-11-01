@@ -693,4 +693,10 @@ main .main-div .section-5 {
 }
 main .main-div .section-5 .section-5-div {
   text-align: center;
+}
+main .main-div .section-5 .section-5-div .sect-5-h3 {
+  font-size: 450%;
+}
+main .main-div .section-5 .section-5-div .sect-5-p {
+  font-size: 180%;
 }/*# sourceMappingURL=styles.css.map */
