@@ -687,21 +687,21 @@ main .main-div .section-5 .section-5-div {
   border: 1px solid black;
   border-radius: 20px;
   position: relative;
+  width: 83%;
+  margin: 0 auto;
   justify-content: space-between;
 }
 main .main-div .section-5 .section-5-div .sect-5-div-1 {
-  border: 1px solid black;
   position: absolute;
-}
-main .main-div .section-5 .section-5-div .sect-5-div-1 .three-birds {
-  margin-left: 40%;
+  top: 50%;
+  left: 2%;
 }
 main .main-div .section-5 .section-5-div .sect-5-div-2 .sect-5-h3 {
-  font-size: 450%;
+  font-size: 400%;
   color: rgb(47, 47, 44);
 }
 main .main-div .section-5 .section-5-div .sect-5-div-2 .sect-5-p {
-  font-size: 180%;
+  font-size: 150%;
   color: rgb(47, 47, 44);
 }
 main .main-div .section-5 .section-5-div .sect-5-div-2 .sect-5-enc {
@@ -722,8 +722,7 @@ main .main-div .section-5 .section-5-div .sect-5-div-2 .sect-5-enc:hover {
   border: 1px solid;
 }
 main .main-div .section-5 .section-5-div .sect-5-div-3 {
-  position: asolute;
-}
-main .main-div .section-5 .section-5-div .sect-5-div-3 .one-bird {
-  margin: 30% 40%;
+  position: absolute;
+  top: 5%;
+  left: 85%;
 }/*# sourceMappingURL=styles.css.map */
